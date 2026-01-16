@@ -12,12 +12,6 @@ A pure black AMOLED theme for Chrome with classic retro terminal green text. Per
 - ⚡ **Battery friendly** - AMOLED displays consume less power with black pixels
 - 🎯 **Clear contrast** - Active and inactive tabs are easily distinguishable
 
-## Screenshots
-
-| New Tab | Active Browsing |
-|---------|----------------|
-| ![New Tab](screenshots/newtab.png) | ![Browsing](screenshots/browsing.png) |
-
 ## Installation
 
 ### Option 1: Local Installation (Recommended)
